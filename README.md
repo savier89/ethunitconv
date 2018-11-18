@@ -1,5 +1,6 @@
 # ethunitconv
 [![Build Status](https://travis-ci.org/savier89/ethunitconv.svg?branch=master)](https://travis-ci.org/savier89/ethunitconv)
+[![Go Report Card](https://goreportcard.com/badge/github.com/savier89/ethunitconv)](https://goreportcard.com/report/github.com/savier89/ethunitconv)
 
 Ethereum Wei unit Converter
 
