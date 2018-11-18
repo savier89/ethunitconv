@@ -41,6 +41,6 @@ $ go test -v
 418160973408927259994095616
 --- PASS: TestConverter (0.00s)
 PASS
-ok      github.com/savier89/ethunitconv 0.151s
+ok      github.com/savier89/ethunitconv	0.001s
 
 ```
