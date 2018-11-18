@@ -4,7 +4,9 @@
 
 Ethereum Wei unit Converter
 
-Convert Ether units http://ethdocs.org/en/latest/ether.html
+## Features
+
+Convert all Ether units http://ethdocs.org/en/latest/ether.html
 
 ## Install
 
@@ -45,3 +47,12 @@ PASS
 ok      github.com/savier89/ethunitconv	0.001s
 
 ```
+
+## Donate
+
+You can help fund the developer by donating to the following wallet addresses:
+
+	BTC: 1HhcW3NjAswZPGBmHo1Kcr2JPA3cfn1bA6
+	ETH: 0xF9E93f163E8Bd606BD36CA2D177C345750C66241
+	CLO: 0x9c0B6195092780963ef2EB978C4b2E1d2f375Bb4
+	
